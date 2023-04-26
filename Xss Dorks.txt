@@ -1,13 +1,13 @@
 	/news.php?id= /news.php?id=
-28	inurl:”.php?author=”
-29	inurl:”.php?cat=”
+	inurl:”.php?author=”
+	inurl:”.php?cat=”
 	inurl:”.php?q=”
-40	inurl:”.php?query=”
-41	inurl:”.php?search=”
+	inurl:”.php?query=”
+	inurl:”.php?search=”
 	inurl:”.php?searchstring=”
 	inurl:”.php?txt=”
-47	inurl:”.php?years=”
-49	inurl:”contentPage.php?id=”
+	inurl:”.php?years=”
+	inurl:”contentPage.php?id=”
 	inurl:/search_results.php?search=
 	inurl:”contentPage.php?id=”
 	inurl:search.php?q=
