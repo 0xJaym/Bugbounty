@@ -1,13 +1,5 @@
-3	/gen_confirm.php?errmsg= /gen_confirm.php?errmsg=
-4	/hexjector.php?site= /hexjector.php?site=
-5	/index.php?option=com_easygb&Itemid=
-6	/index.php?view=help&amp;faq=1&amp;ref=
-7	/index.php?view=help&faq=1&ref=
-	/news.php?id= /news.php?id=
+6	/news.php?id= /news.php?id=
 12	/notice.php?msg= /notice.php?msg=
-16	/search.php?search_keywords= /search.php?search_keywords=
-21	/vehicle/buy_do_search/?order_direction=
-22	/view.php?PID= /view.php?PID=
 28	inurl:”.php?author=”
 29	inurl:”.php?cat=”
 30	inurl:”.php?cmd=”
