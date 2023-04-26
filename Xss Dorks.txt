@@ -1,29 +1,13 @@
-6	/news.php?id= /news.php?id=
-12	/notice.php?msg= /notice.php?msg=
+	/news.php?id= /news.php?id=
 28	inurl:”.php?author=”
 29	inurl:”.php?cat=”
-30	inurl:”.php?cmd=”
-34	inurl:”.php?keyword=”
-35	inurl:”.php?mail=”
-37	inurl:”.php?pass=”
-38	inurl:”.php?pass=”
 39	inurl:”.php?q=”
 40	inurl:”.php?query=”
 41	inurl:”.php?search=”
-42	inurl:”.php?searchstring=”
 	inurl:”.php?searchstring=”
-44	inurl:”.php?tag=”
-45	inurl:”.php?txt=”
-46	inurl:”.php?vote=”
+	inurl:”.php?txt=”
 47	inurl:”.php?years=”
-48	inurl:”.php?z=”
 49	inurl:”contentPage.php?id=”
-51	inurl:.com/search.asp
-52	inurl:/poll/default.asp?catid=
 	inurl:/search_results.php?search=
-56	inurl:/­search_results.php?se­arch=
-57	inurl:/search_results.php?search=Search&amp;k=
-58	inurl:/search_results.php?search=Search&k=
 	inurl:”contentPage.php?id=”
-60	inurl:”displayResource.php?id=”
-64	inurl:search.php?q=
+	inurl:search.php?q=
