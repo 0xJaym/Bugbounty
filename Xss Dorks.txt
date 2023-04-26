@@ -32,6 +32,6 @@
 56	inurl:/­search_results.php?se­arch=
 57	inurl:/search_results.php?search=Search&amp;k=
 58	inurl:/search_results.php?search=Search&k=
-59	inurl:”contentPage.php?id=”
+	inurl:”contentPage.php?id=”
 60	inurl:”displayResource.php?id=”
 64	inurl:search.php?q=
