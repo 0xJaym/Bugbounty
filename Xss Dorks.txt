@@ -3,21 +3,16 @@
 5	/index.php?option=com_easygb&Itemid=
 6	/index.php?view=help&amp;faq=1&amp;ref=
 7	/index.php?view=help&faq=1&ref=
-8	/info.asp?page=fullstory&amp;key=1&amp;news_type=news&amp;onvan=
 11	/news.php?id= /news.php?id=
 12	/notice.php?msg= /notice.php?msg=
 16	/search.php?search_keywords= /search.php?search_keywords=
-19	/site_search.php?sfunction= /site_search.php?sfunction=
 21	/vehicle/buy_do_search/?order_direction=
 22	/view.php?PID= /view.php?PID=
 28	inurl:”.php?author=”
 29	inurl:”.php?cat=”
 30	inurl:”.php?cmd=”
-31	inurl:”.php?feedback=”
-33	inurl:”.php?from=”
 34	inurl:”.php?keyword=”
 35	inurl:”.php?mail=”
-36	inurl:”.php?max=”
 37	inurl:”.php?pass=”
 38	inurl:”.php?pass=”
 39	inurl:”.php?q=”
@@ -31,14 +26,12 @@
 47	inurl:”.php?years=”
 48	inurl:”.php?z=”
 49	inurl:”contentPage.php?id=”
-50	inurl:”displayResource.php?id=”
 51	inurl:.com/search.asp
 52	inurl:/poll/default.asp?catid=
-55	inurl:/search_results.php?search=
+	inurl:/search_results.php?search=
 56	inurl:/­search_results.php?se­arch=
 57	inurl:/search_results.php?search=Search&amp;k=
 58	inurl:/search_results.php?search=Search&k=
 59	inurl:”contentPage.php?id=”
 60	inurl:”displayResource.php?id=”
-61	inurl:com_feedpostold/feedpost.php?url=
 64	inurl:search.php?q=
