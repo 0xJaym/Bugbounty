@@ -1,7 +1,7 @@
 	/news.php?id= /news.php?id=
 28	inurl:”.php?author=”
 29	inurl:”.php?cat=”
-39	inurl:”.php?q=”
+	inurl:”.php?q=”
 40	inurl:”.php?query=”
 41	inurl:”.php?search=”
 	inurl:”.php?searchstring=”
