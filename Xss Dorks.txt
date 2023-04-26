@@ -3,7 +3,7 @@
 5	/index.php?option=com_easygb&Itemid=
 6	/index.php?view=help&amp;faq=1&amp;ref=
 7	/index.php?view=help&faq=1&ref=
-11	/news.php?id= /news.php?id=
+	/news.php?id= /news.php?id=
 12	/notice.php?msg= /notice.php?msg=
 16	/search.php?search_keywords= /search.php?search_keywords=
 21	/vehicle/buy_do_search/?order_direction=
