@@ -11,3 +11,4 @@
 	inurl:/search_results.php?search=
 	inurl:”contentPage.php?id=”
 	inurl:search.php?q=
+	inurl:?msg=invalid username or password
